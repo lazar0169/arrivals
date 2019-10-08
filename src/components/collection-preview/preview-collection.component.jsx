@@ -1,10 +1,10 @@
 import React from 'react';
 
-import CollectionItem from './../collection-item/collection-item.component';
+import CollectionItem from '../collection-item/collection-item.component';
 import './preview-collection.styles.scss';
 
 const CollectionPreview = (props) => (
-    <div className="preview-collection">
+    <div className="collection-preview">
         <h1 className="title">{props.title.toUpperCase()}</h1>
         <div className="preview">
             {
