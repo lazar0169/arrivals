@@ -5,7 +5,7 @@
     "search.showLineNumbers": true,
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
-    "files.autoSave": "off",
+    "files.autoSave": "afterDelay",
     "files.autoSaveDelay": 100,
     "editor.cursorBlinking": "solid",
     "editor.cursorSmoothCaretAnimation": true,
