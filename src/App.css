@@ -1,6 +1,8 @@
+@import './assets/fonts/inter.css';
+
 body {
     margin: 0;
-    font-family: 'Varela Round', sans-serif;
+    font-family: 'Inter', sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     padding: 20px 60px;
